@@ -19,8 +19,8 @@ This template should help get you started developing with Vue 3 and TypeScript i
         "@typescript-eslint/eslint-plugin": "^5.28.0",
         "@typescript-eslint/parser": "^5.28.0",
         "@vitejs/plugin-vue": "^2.3.3",
-        "autoprefixer": "^10.4.7", // 自动添加 prefixer，浏览器兼容
-        "eslint": "^8.17.0", // eslint 基础支持
+        "autoprefixer": "^10.4.7",
+        "eslint": "^8.17.0",
         "eslint-config-prettier": "^8.5.0",
         "eslint-plugin-prettier": "^4.0.0",
         "eslint-plugin-vue": "^9.1.1",
