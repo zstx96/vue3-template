@@ -3,7 +3,7 @@
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 
-```` json
+``` json
  "dependencies": {
         "@vueuse/core": "^8.6.0",
         "axios": "^0.27.2",
@@ -36,6 +36,5 @@ This template should help get you started developing with Vue 3 and TypeScript i
         "vite": "^2.9.9",
         "vue-tsc": "^0.34.7"
     }
-}
 
 ```
